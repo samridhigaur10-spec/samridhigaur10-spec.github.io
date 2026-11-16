@@ -1,0 +1,60 @@
+SAMRIDHI GAUR
+Product Management | Product Analytics | GenAI | SQL
+Hyderabad,India | +919971973614 | f20221634@hyderabad.bits-pilani.ac.in
+linkedin.com/in/samridhi-gaur-a71750257
+EDUCATION
+Birla Institute of Technology and Science, Pilani — Hyderabad Campus Nov 2022 – Jul 2027
+M.Sc. Physics, B.E. Mechanical Engineering CGPA: 7.37
+Class XII (CBSE) — Ahlcon International School 95.4%
+Class X (CBSE) — Father Agnel School 93.8%
+EXPERIENCE
+Product Management Intern, Myntra Jul 2026 – Present
+• Owned end-to-end GTM for an ads product, driving 2× feature adoption and 10× revenue growth through
+cross-functional execution.
+• Optimizedadsperformanceacrossa $110M annualized portfolio and 1,000+ brands, leveragingCTR,CVR,and
+ROAS analytics to deliver 3× improvement in ROAS and CVR.
+• Built and launched an LLM-powered Ads Copilot, translating advertiser workflows into PRDs and evaluation
+frameworks to drive 25%+ adoption across 975+ brands.
+Business Strategy & Analytics Intern, Bharat Electronics Limited (BEL) May 2025 – Jun 2025
+• Analyzed naval radar system data using SQL/Python to identify failure patterns, improving issue identification
+accuracy by ∼12%.
+• Conducted root cause analysis and built KPI dashboards, reducing issue detection time by ∼20–25%.
+Product Strategy & Business Intern, Optimum Viking Satcom Dec 2024 – Feb 2025
+• Built production-performance dashboards tracking cycle time, utilization, throughput, and output efficiency
+to identify bottlenecks.
+• Translated operational pain points into product and workflow improvements, increasing modeled productivity by
+20% through cross-functional execution.
+Founder’s Office Intern, Grain Technik (Kabu Projects Pvt. Ltd.) Jun 2024 – Jul 2024
+• Analyzed 50K+ marketing impressions to identify customer drop-offs and inform product and messaging improve-
+ments across the funnel.
+• Developed user segmentation strategies to optimize targeting, improving campaign performance by ∼15–20% and
+conversion by ∼8–12%.
+PROJECTS
+Cart Conversion Optimization Product Analytics & GenAI
+• Analyzed 10K+ sessions to identify drivers of 75%+ abandonment and quantify INR 75L+ revenue leakage.
+• Used LLM-assisted analysis and segmentation to identify friction points and prioritize 5 interventions for A/B
+testing.
+• Achieved an 18% conversion lift and projected INR 2–3 Cr/month revenue recovery.
+Digital Loan Funnel Optimization Product Analytics
+• Analyzed a 5K+ user loan funnel across KYC, verification, and approval to identify customer drop-offs.
+• Applied SQL/Python segmentation and statistical analysis, improving conversion by 10–14%.
+• Designed progressive KYC and real-time feedback interventions, reducing abandonment by 15–20%.
+Airline Pricing & Demand Optimization Pricing & Growth
+• Built Python demand forecasting and pricing models to optimize seat allocation and pricing decisions.
+• Analyzed booking behavior and fare-class demand to identify revenue leakage and pricing inefficiencies.
+• Improved simulated revenue by ∼7% and reduced inefficiencies by ∼20%.
+LEADERSHIP & POSITIONS OF RESPONSIBILITY
+• Football Team Captain & Social Media Lead: Led a team of 20+ members to 10+ championship wins; drove
+strategy, performance tracking, and decision-making; awarded Decathlon Player of the Year 2024.
+• Marketing Head, DOPE: Led cross-functional execution of campus-wide events with 75K+ footfall; secured
+sponsorships through outreach and negotiations.
+• Product Head, SAE: Designed a multi-element airfoil for a DRDO-funded system; improved performance through
+simulation-driven analysis and structured problem-solving.
+SKILLS
+Product: Product Strategy, Product Metrics, GTM, PRDs, User Research, Funnel Analysis, A/B Testing, Root Cause
+Analysis
+Analytics: SQL, Python (Pandas), Excel, Tableau, Power BI, Statistical Analysis, Segmentation
+Execution: User Stories, Requirements, Stakeholder Management, Cross-functional Collaboration, Structured Problem
+Solving
+GenAI: Prompt Engineering, LLM Evaluation, AI Product Development, API Integration
+Certification: Supply Chain Logistics — Rutgers University (Coursera)
